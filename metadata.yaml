@@ -1,0 +1,25 @@
+_repo: The-Fall-of-the-Moghul-Empire-of-Hindustan_1470
+creator:
+  author:
+    agent_name: Keene, H. G. (Henry George)
+    alias: Keene, Henry George
+    birthdate: 1825
+    deathdate: 1915
+    gutenberg_agent_id: '643'
+    url: http://www.gutenberg.org/2009/agents/643
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mogul Empire -- History'
+- !lcsh 'India -- History -- 18th century'
+- !lcc 'DS'
+title: The Fall of the Moghul Empire of Hindustan
+url: http://www.gutenberg.org/ebooks/1470
