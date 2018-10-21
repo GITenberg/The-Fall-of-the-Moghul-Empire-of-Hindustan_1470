@@ -1,5 +1,5 @@
 _repo: The-Fall-of-the-Moghul-Empire-of-Hindustan_1470
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Mogul Empire -- History'
 - !lcsh 'India -- History -- 18th century'
 - !lcc 'DS'
+- GITenberg
 title: The Fall of the Moghul Empire of Hindustan
 url: http://www.gutenberg.org/ebooks/1470
